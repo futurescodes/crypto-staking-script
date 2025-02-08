@@ -4,6 +4,8 @@ Hello,
 This is fully functional Staking script which works on EVM chains!
 
 
+Contact 👉 : https://www.algovana.com
+
 
 Features:
 
